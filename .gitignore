@@ -1,0 +1,8 @@
+# Python virtual environments
+venv/
+
+# CatBoost-specific folders
+catboost_info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
